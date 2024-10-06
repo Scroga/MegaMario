@@ -1,0 +1,14 @@
+Font OpenSans bin/fonts/OpenSans-Regular.ttf
+Font CooperHewitt bin/fonts/CooperHewitt-Medium.otf
+Font SuperPlumberBrothers bin/fonts/super-plumber-brothers.ttf
+Font CoverByteOff bin/fonts/ccoverbyteoff-regular.ttf
+
+Texture stand bin/textures/stand.png
+Texture jump bin/textures/shot.png
+Texture shot bin/textures/jump.png
+Texture brick1 bin/textures/brick1.png
+
+Animation Stand stand 1 0
+Animation Jump jump 1 0
+Animation Shot shot 1 0
+Animation Brick1 brick1 1 0

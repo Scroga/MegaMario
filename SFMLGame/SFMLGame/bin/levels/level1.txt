@@ -1,0 +1,25 @@
+Player 6 5 64 64 3 7 2 Bullet
+
+
+//floor
+Tile Brick1 0 0
+Tile Brick1 1 0
+Tile Brick1 2 0
+Tile Brick1 3 0
+Tile Brick1 4 0
+Tile Brick1 5 0
+Tile Brick1 6 0
+Tile Brick1 7 0
+Tile Brick1 8 0
+Tile Brick1 9 0
+Tile Brick1 10 0
+Tile Brick1 11 0
+Tile Brick1 12 0
+Tile Brick1 13 0
+Tile Brick1 14 0
+Tile Brick1 15 0
+Tile Brick1 16 0
+Tile Brick1 17 0
+Tile Brick1 18 0
+Tile Brick1 19 0
+
